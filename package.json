@@ -12,6 +12,7 @@
   ],
   "author": "LzxHahaha",
   "license": "MIT",
+  "git repository": "https://github.com/LzxHahaha/react-native-number-password-box",
   "dependencies": {
     "react-native": "^0.20.0",
     "react-native-modalbox": "^1.3.1",
